@@ -6,12 +6,13 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "redirect" : [
+    "rewrites": [
       {
-        "source" : "/",
-        "destination" : "/profile.html",
-        "type" : 301
+        "source": "**",
+        "destination": "/profile.html"
       }
-    ]
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
   }
 }

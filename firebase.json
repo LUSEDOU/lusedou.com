@@ -6,6 +6,18 @@
       "**/.*",
       "**/node_modules/**"
     ],
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/profile.html",
+        "type": 301
+      },
+      {
+        "source": "/index.html",
+        "destination": "/profile.html",
+        "type": 301
+      }
+    ],
     "rewrites": [
       {
         "source": "**",

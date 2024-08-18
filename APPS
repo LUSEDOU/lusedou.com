@@ -1,0 +1,87 @@
+sally
+Sally
+Year: 2024
+Short: Android App that help to manage internal process of a company and its employees
+Description: An android app that help to manage internal process of a company and its employees. This app has the capabilities to manage the sales, the inventory, the clients, the employees, the reports, the notifications, the chat, the tasks, the goals, the promotions, the products, the orders, the payments, the expenses, the incomes, the suppliers, the categories, the brands, the discounts, the taxes, the permissions, the roles, the users, the branches, the warehouses, the settings, the profile, the notifications, the chat, the tasks, the goals, the promotions, the products, the orders, the payments, the expenses, the incomes, the suppliers, the categories, the brands, the discounts, the taxe and the permissions.
+Framework: Flutter, Firebase, Bloc, Cascade, Provider, Crashlytics, Mixpanel
+Images: ./images/sally/image_1 ./images/sally/image_2 ./images/sally/image_3
+Playstore: https://play.google.com/store/apps/details?id=pe.com.perufarma.apps.ventasapp
+AppStore: -
+Web: http://perufarma.com.pe/
+
+scory
+Scory
+Year: 2024
+Short: Fintech app to generate credit score
+Description: A fintech app that help to generate credit score for the users. This app has the capabilities to manage the score, pay the debts, request a loan, pay the loan, see the history, see the reports, see the notifications, see the chat, see the tasks, see the goals, see the promotions, see the products, see the orders, see the payments, see the expenses, see the incomes, see the suppliers, see the categories, see the brands, see the discounts, see the taxes, see the permissions, see the roles, see the users, see the branches, see the warehouses, see the settings, see the profile, see the notifications, see the chat, see the tasks, see the goals, see the promotions, see the products, see the orders, see the payments, see the expenses, see the incomes, see the suppliers, see the categories, see the brands, see the discounts, see the taxe and see the permissions.
+Framework: Flutter, Firebase, Bloc, Crashlytics, Mixpanel
+Images: ./images/scory/image_1 ./images/scory/image_2
+Playstore: https://play.google.com/store/apps/details?id=com.scory.app
+AppStore: https://apps.apple.com/us/app/scory/id1580190736
+Web: https://scory.app/
+
+belity
+Belity
+Year: 2023
+Short: Beauty Services Marketplace App
+# Download our beauty app at home and enjoy a unique personal care experience. With our application, you can book beauty services in the comfort of your home, office or wherever you want without having to worry about going to a hair salon or spa. We offer you a wide range of beauty services, including haircuts, hairstyles, makeup, manicures, pedicures and much more. How does it work? It is easy. You just have to download the app, select the services you want to book, choose the day and time that best suits you, and that's it! One of our beauty experts will show up at your home to provide you with a world-class personal care experience. Our highly trained beauty professionals are available to attend to your beauty needs whenever you need it. Whether it's for a special occasion or just to pamper yourself, our in-home beauty services are just a few clicks away! Download our home beauty app today and experience the convenience of receiving high-quality beauty services in the comfort of your home.
+Framework: Flutter, GetX, Firebase, Crashlyics, MixPanel, Sentry, NewRelic
+Images: ./images/belity/image_1 ./images/belity/image_2 ./images/belity/image_3
+Playstore: https://play.google.com/store/apps/details?id=app.belitech.belity
+AppStore: https://apps.apple.com/es/app/belity-belleza-a-domicilio/id6447607515
+Web: https://belity.app/
+
+beliter
+Beliter
+Year: 2023
+Short: Beauty Services Marketplace App for Service Providers
+Description: Beliter is the app for beauty professionals. With Beliter, you can offer your beauty services to clients who want to receive them in the comfort of their home. You can manage your schedule, receive notifications of new appointments, and keep track of your earnings. Download Beliter now and start offering your beauty services to clients who want to receive them in the comfort of their home.
+Framework: Flutter, GetX, Firebase, Crashlyics, MixPanel, Sentry, NewRelic
+Images: -
+Playstore: https://play.google.com/store/apps/details?id=app.belitech.beliter
+AppStore: https://apps.apple.com/ph/app/belity-para-especialistas/id6447266490
+Web: https://belity.app/
+
+toyota_conmigo
+Toyota Conmigo
+Year: 2022
+Short: Mobile App for Public Transportation
+Description: Toyota Conmigo is an app that helps you find the best route to your destination using public transportation. With Toyota Conmigo, you can see the schedules, routes, and stops of the buses and micros in Lima. You can also see the estimated time of arrival of the buses and micros at the stops. With Toyota Conmigo, you can plan your trips and get to your destination on time.
+Framework: Flutter, GetX, Firebase, Crashlytics
+Images: ./images/toyota_conmigo/image_1 ./images/toyota_conmigo/image_2 ./images/toyota_conmigo/image_3
+Playstore: https://play.google.com/store/apps/details?id=com.toyotaconmigo.peru
+AppStore: https://apps.apple.com/us/app/toyota-conmigo/id6444865237
+Web: https://www.toyotaperu.com.pe/toyota-conmigo
+
+tu_ruta
+TuRuta
+Year: 2021
+Short: Mobile App for Public Transportation
+Description: TuRuta is an app that helps you find the best route to your destination using public transportation. With TuRuta, you can see the schedules, routes, and stops of the buses and micros in Lima. You can also see the estimated time of arrival of the buses and micros at the stops. With TuRuta, you can plan your trips and get to your destination on time.
+Framework: Flutter, Firebase
+Images: ./images/turuta/image_1 ./images/turuta/image_2
+Playstore: https://play.google.com/store/apps/details?id=pe.tumicro.android
+AppStore: https://itunes.apple.com/pe/app/turuta-antes-tumicro/id1186323189?mt=8
+Web: https://turuta.pe/
+
+peru_runners
+PeruRunners
+Year: 2021
+Short: Mobile App for Runners, Marketplace and Social Network
+Description: PeruRunners is an app that helps you find the best routes for running in Lima. With PeruRunners, you can see the routes, distances, and elevations of the best running routes in Lima. You can also see the estimated time of arrival of the buses and micros at the stops. With PeruRunners, you can plan your runs and get to your destination on time. PeruRunners also has a marketplace where you can buy running gear and a social network where you can connect with other runners.
+Framework: Flutter, Firebase
+Images: ./images/perurunners/image_1 ./images/perurunners/image_2
+Playstore: https://play.google.com/store/apps/details?id=app.PeruRunners.fitcoapp.net&hl=en_US
+AppStore: -
+Web: https://www.perurunners.com/
+
+bitsports
+Bitsports
+Year: 2020
+Short: Cross Platform App that serves as a Marketplace for Sports Teams
+Description: Bitsports is a cross-platform app that serves as a marketplace for sports teams. With Bitsports, you can find sports teams in your area, join them, and participate in their events. You can also create your own sports team, invite your friends to join, and organize events. With Bitsports, you can connect with other sports enthusiasts, share your passion for sports, and have fun playing your favorite sports.
+Framework: Flutter, Firebase, Riverpod, Bloc
+Images: -
+Playstore: https://play.google.com/store/apps/details?id=com.bitsports.fanidcol
+AppStore: https://apps.apple.com/us/app/fanki/id6444727367
+Web: https://fanki.co/en

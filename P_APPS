@@ -1,0 +1,55 @@
+voicely
+Voicely
+Year: 2024
+Short: Mobile App for voice analysis and assitant in service centers
+Description: A mobile app that allows to the user to make a voice analysis and get a report of their emotions, tone, and other metrics. Also, the app has a voice assistant that can help the user to make a call, send a message, or other actions.
+Framework: Flutter, Firebase, Bloc, GoRouter, OpenAI, Mixpanel, Sentry, Google Cloud
+
+crash_dash
+CrashDash
+Year: 2024
+Short: App for monitoring crashes, failures and errors in integrated apps
+Description: A dashboard that allows to the user to monitor the crashes, failures, and errors in their integrated apps. The software has the capabilities to send notifications, alerts, reports to the user and analize the data to make predictions and recommendations.
+Framework: Flutter, Firebase, Python, Polars, Sentry, Scikit-learn, Turso
+
+digitalizacion
+Digitalizacion
+Year: 2024
+Short: System for digitalice documents, make reports, scan variatons, and other useful tools
+Description: A set of for main programs related to the digitalization of documents, reports, and other useful tools. The set is composed of a daemon process, a command line interface, a dashboard and analysis reports. The software has the capabilities to digitalize documents, make reports, scan variations, and other useful tools.
+Framework: Go, Python, Fly.io, Sqlite, Flutter, Firebase, Polars, Sentry
+
+belity_admin
+Belity Admin
+Year: 2023
+Short: Beauty Services Marketplace App
+Description: A dashboard that allows to configure the Belity/Beliter app, manage the services, the users, the payments, the notifications, the reports, and other useful tools. The dashboard serves as an Admin Platform to the core business of Belity.
+Framework: PHP, Laravel, MySQL, Firebase, Docker
+
+beli_noti
+BeliNoti
+Year: 2023
+Short: Dashboard for managing notifications in Belity App
+Description: A Dashboard and their system to connect local, data and push notifications to the user with the app registered. These software also have the capabilities to schedule, send at the moment, create different message, personalice per user, and has engagement analisys between experiments.
+Framework: Python, Polars, Go, Spark, Mixpanel, Sentry, NewRelic, Docker, Firebase, Flutter
+
+usil_scolarship_admin_site
+USIL Scolarship Program Admin Site
+Year: 2023
+Short: Admin Site for managing scolarship program
+Description: A site that allows to the USIL staff to manage the scolarship program, the students, the payments, the reports, and other useful tools. The site serves as an Admin Platform to the core business of USIL.
+Framework: Flutter, Firebase, GoRouter, Bloc
+
+pacifico_seguros_assistance_service_dashboard
+Pacifico Seguros Assitance Services Dashboard
+Year: 2022
+Short: Dashboard for managing assistance services
+Description: A site that allows to the Pacifico Seguros staff to manage the assistance services, the users, the payments, the reports, and other useful tools. The site serves as an Admin Platform to the core business of Pacifico Seguros.
+Framework: Node.js, Express, Firebase.
+
+heydru
+Heydru!
+Year: 2020
+Short: Heydru internal app for managing tasks and projects
+Description: A mobile app that allows to the Heydru team to manage the tasks, the projects, the reports, the notifications, and other useful tools. The app serves as an internal platform to the core business of Heydru.
+Framework: Flutter, GetX, Firebase, GoRouter, Bloc

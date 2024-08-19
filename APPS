@@ -24,7 +24,7 @@ belity
 Belity
 Year: 2023
 Short: Beauty Services Marketplace App
-# Download our beauty app at home and enjoy a unique personal care experience. With our application, you can book beauty services in the comfort of your home, office or wherever you want without having to worry about going to a hair salon or spa. We offer you a wide range of beauty services, including haircuts, hairstyles, makeup, manicures, pedicures and much more. How does it work? It is easy. You just have to download the app, select the services you want to book, choose the day and time that best suits you, and that's it! One of our beauty experts will show up at your home to provide you with a world-class personal care experience. Our highly trained beauty professionals are available to attend to your beauty needs whenever you need it. Whether it's for a special occasion or just to pamper yourself, our in-home beauty services are just a few clicks away! Download our home beauty app today and experience the convenience of receiving high-quality beauty services in the comfort of your home.
+Description: Belity is the app for beauty services. With Belity, you can find the best beauty services in your area, book an appointment, and receive the service in the comfort of your home. You can choose from a variety of beauty services, such as haircuts, manicures, pedicures, facials, massages, and more. With Belity, you can look and feel your best without leaving your home. Download Belity now and start enjoying the best beauty services in your area.
 Framework: Flutter, GetX, Firebase, Crashlyics, MixPanel, Sentry, NewRelic
 Images: ./images/belity/image_1 ./images/belity/image_2 ./images/belity/image_3
 Playstore: https://play.google.com/store/apps/details?id=app.belitech.belity
